@@ -39,6 +39,12 @@
 				<strong>{data.ip}</strong>
 			</div>
 		</div>
+		<div class="block">
+			<div class="contents">
+				<span>the time</span>
+				<strong>{data.time}</strong>
+			</div>
+		</div>
 	</div>
 </main>
 
